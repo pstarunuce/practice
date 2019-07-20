@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("check branch")
+        print("new branch")
         // Do any additional setup after loading the view.
     }
 
